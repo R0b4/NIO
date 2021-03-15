@@ -1,0 +1,8 @@
+7
+1 O;0 ZW;0 O;0 ZW;0 Z;0 ZO;0 W;
+0 O;0 ZW;0 NW;0 N;0 W;0 NO;0 ZW;
+0 Z;0 O;0 O;0 O;0 NO;0 O;0 Z;
+0 NO;0 Z;0 W;0 Z;0 NO;0 ZW;0 Z;
+0 N;0 ZO;0 Z;0 NW;0 NW;0 N;0 Z;
+0 N;0 N;0 Z;0 NW;0 ZO;0 N;0 W;
+0 N;0 N;0 O;0 N;0 N;0 O;49 ;

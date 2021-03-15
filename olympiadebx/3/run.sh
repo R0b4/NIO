@@ -1,0 +1,1 @@
+g++ $1 -o exec.out; ./exec.out $2 $3 $4 $5 $6; rm exec.out;

@@ -1,0 +1,118 @@
+1 	H 	waterstof 	1 	1 	1,007 94 	0,000 084[1] 	−259,1 	−252,9 	1766 	Cavendish
+2 	He 	helium 	18 	1 	4,002 602 	0,000 17[2] 	−272,2 	−268,9 	1895 	Jansen en Lockyer
+3 	Li 	lithium 	1 	2 	6,941 	0,53 	180,5 	1317 	1817 	Arfvedson
+4 	Be 	beryllium 	2 	2 	9,012 182 	1,85 	1278 	2970 	1797 	Vauquelin
+5 	B 	boor, borium 	13 	2 	10,811 262 	2,46 	2300 	2550 	1808 	Davy en Gay-Lussac
+6 	C 	koolstof 	14 	2 	12,011 	3,51 	3550 	4827 	prehistorisch 	
+7 	N 	stikstof 	15 	2 	14,006 74 	0,001 17[1] 	−209,9 	−195,8 	1772 	Rutherford
+8 	O 	zuurstof 	16 	2 	15,9994 	0,001 33[1] 	−218,4 	−182,9 	1774 	Priestley en Scheele
+9 	F 	fluor 	17 	2 	18,998 4032 	0,001 58[1] 	−219,6 	−188,1 	1886 	Moissan
+10 	Ne 	neon 	18 	2 	20,1797 	0,000 84 	−248,7 	−246,1 	1898 	Ramsay en Travers
+11 	Na 	natrium 	1 	3 	22,989 768 	0,97 	97,8 	892 	1807 	Davy
+12 	Mg 	magnesium 	2 	3 	24,305 	1,74 	648,8 	1107 	1755 	Black
+13 	Al 	aluminium 	13 	3 	26,981 539 	2,70 	660,5 	2467 	1825 	Ørsted
+14 	Si 	silicium 	14 	3 	28,0855 	2,33 	1410 	2355 	1824 	Berzelius
+15 	P 	fosfor 	15 	3 	30,973 762 	1,82 	44 (P4) 	280 (P4) 	1669 	Brand
+16 	S 	zwavel 	16 	3 	32,066 	2,06 	113 	444,7 	prehistorisch 	
+17 	Cl 	chloor 	17 	3 	35,4527 	0,002 95[1] 	−101 	−34,6 	1774 	Scheele
+18 	Ar 	argon 	18 	3 	39,948 	0,001 66 	−189,4 	−185,9 	1894 	Ramsay en Rayleigh
+19 	K 	kalium 	1 	4 	39,0983 	0,86 	63,7 	774 	1807 	Davy
+20 	Ca 	calcium 	2 	4 	40,078 	1,54 	839 	1487 	1808 	Davy
+21 	Sc 	scandium 	3 	4 	44,955 91 	2,99 	1539 	2832 	1879 	Nilson
+22 	Ti 	titanium, titaan 	4 	4 	47,88 	4,51 	1660 	3260 	1791 	Gregor en Klaproth
+23 	V 	vanadium 	5 	4 	50,9415 	6,09 	1890 	3380 	1801 	Del Río
+24 	Cr 	chroom 	6 	4 	51,9961 	7,14 	1857 	2482 	1797 	Vauquelin
+25 	Mn 	mangaan 	7 	4 	54,938 05 	7,44 	1244 	2097 	1774 	Gahn
+26 	Fe 	ijzer 	8 	4 	55,847 	7,87 	1535 	2750 	prehistorisch 	
+27 	Co 	kobalt 	9 	4 	58,9332 	8,89 	1495 	2870 	ca. 1730 	Brandt
+28 	Ni 	nikkel 	10 	4 	58,69 	8,91 	1453 	2732 	1751 	Cronstedt
+29 	Cu 	koper 	11 	4 	63,546 	8,92 	1083,5 	2595 	prehistorisch 	
+30 	Zn 	zink 	12 	4 	65,39 	7,14 	419,6 	907 	prehistorisch 	
+31 	Ga 	gallium 	13 	4 	69,723 	5,91 	29,8 	2403 	1875 	Lecoq de Boisbaudran
+32 	Ge 	germanium 	14 	4 	72,61 	5,32 	937,4 	2830 	1886 	Winkler
+33 	As 	arseen, arsenicum 	15 	4 	74,921 59 	5,72 	613 	613 (sublimeert) 	ca. 1250 	Magnus
+34 	Se 	seleen, selenium 	16 	4 	78,96 	4,82 	217 	685 	1817 	Berzelius
+35 	Br 	broom 	17 	4 	79,904 	3,14 	−7,3 	58,8 	1826 	Balard
+36 	Kr 	krypton 	18 	4 	83,8 	0,003 48 	−156,6 	−152,3 	1898 	Ramsay en Travers
+37 	Rb 	rubidium 	1 	5 	85,4678 	1,53 	39 	688 	1861 	Bunsen en Kirchhoff
+38 	Sr 	strontium 	2 	5 	87,62 	2,63 	769 	1384 	1790 	Crawford
+39 	Y 	yttrium 	3 	5 	88,905 85 	4,47 	1523 	3337 	1794 	Gadolin
+40 	Zr 	zirkonium, zirkoon 	4 	5 	91,224 	6,51 	1852 	4377 	1789 	Klaproth
+41 	Nb 	niobium 	5 	5 	92,906 38 	8,58 	2468 	4927 	1801 	Hatchett
+42 	Mo 	molybdeen, molybdenium 	6 	5 	95,94 	10,28 	2617 	5560 	1778 	Scheele
+43 	Tc 	technetium 	7 	5 	98,9063 	11,49 	2172 	5030 	1937 	Perrier en Segrè
+44 	Ru 	ruthenium 	8 	5 	101,07 	12,45 	2310 	3900 	1844 	Claus
+45 	Rh 	rodium 	9 	5 	102,9055 	12,41 	1966 	3727 	1803 	Wollaston
+46 	Pd 	palladium 	10 	5 	106,42 	12,02 	1552 	3140 	1803 	Wollaston
+47 	Ag 	zilver 	11 	5 	107,8682 	10,49 	961,9 	2212 	prehistorisch 	
+48 	Cd 	cadmium 	12 	5 	112,411 	8,64 	321 	765 	1817 	Strohmeyer
+49 	In 	indium 	13 	5 	114,82 	7,31 	156,2 	2080 	1863 	Reich en Richter
+50 	Sn 	tin 	14 	5 	118,71 	7,29 	232 	2270 	prehistorisch 	
+51 	Sb 	antimoon 	15 	5 	121,75 	6,69 	630,7 	1750 	prehistorisch 	
+52 	Te 	telluur, tellurium 	16 	5 	127,6 	6,25 	449,6 	990 	1782 	Von Reichenstein
+53 	I 	jood, jodium 	17 	5 	126,904 47 	4,94 	113,5 	184,4 	1811 	Courtois
+54 	Xe 	xenon 	18 	5 	131,29 	0,004 49 	−111,9 	−107 	1898 	Ramsay en Travers
+55 	Cs 	cesium 	1 	6 	132,905 43 	1,90 	28,4 	690 	1860 	Kirchhoff en Bunsen
+56 	Ba 	barium 	2 	6 	137,327 	3,65 	725 	1640 	1808 	Davy
+57 	La 	lanthaan 	3 	6 	138,9055 	6,16 	920 	3454 	1839 	Mosander
+58 	Ce 	cerium 	3 	6 	140,115 	6,77 	798 	3257 	1803 	Von Hisinger en Berzelius
+59 	Pr 	praseodymium 	3 	6 	140,907 65 	6,48 	931 	3212 	1895 	Auer von Welsbach
+60 	Nd 	neodymium 	3 	6 	144,24 	7,00 	1010 	3127 	1895 	Auer von Welsbach
+61 	Pm 	promethium 	3 	6 	146,9151 	7,22 	1080 	2730 	1945 	Marinsky, Coryell en Glendenin
+62 	Sm 	samarium 	3 	6 	150,36 	7,54 	1072 	1778 	1879 	Lecoq de Boisbaudran
+63 	Eu 	europium 	3 	6 	151,965 	5,25 	822 	1597 	1901 	Demaçay
+64 	Gd 	gadolinium 	3 	6 	157,25 	7,89 	1311 	3233 	1880 	De Marignac
+65 	Tb 	terbium 	3 	6 	158,925 34 	8,25 	1360 	3041 	1843 	Mosander
+66 	Dy 	dysprosium 	3 	6 	162,5 	8,56 	1409 	2335 	1886 	Lecoq de Boisbaudran
+67 	Ho 	holmium 	3 	6 	164,930 32 	8,78 	1470 	2720 	1878 	Delafontaine en Soret
+68 	Er 	erbium 	3 	6 	167,26 	9,05 	1522 	2510 	1842 	Mosander
+69 	Tm 	thulium 	3 	6 	168,934 21 	9,32 	1545 	1727 	1879 	Cleve
+70 	Yb 	ytterbium 	3 	6 	173,04 	6,97 	824 	1193 	1878 	De Marignac
+71 	Lu 	lutetium 	3 	6 	174,967 	9,84 	1656 	3315 	1907 	Urbain
+72 	Hf 	hafnium 	4 	6 	178,49 	13,31 	2150 	5400 	1923 	Coster en De Hevesy
+73 	Ta 	tantaal, tantalium 	5 	6 	180,9479 	16,68 	2996 	5425 	1802 	Ekeberg
+74 	W 	wolfraam 	6 	6 	183,85 	19,26 	3407 	5927 	1783 	J en F. Elhuyar
+75 	Re 	renium 	7 	6 	186,207 	21,03 	3180 	5627 	1925 	Noddack, Tacke en Berg
+76 	Os 	osmium 	8 	6 	190,2 	22,61 	3045 	5027 	1803 	Tennant
+77 	Ir 	iridium 	9 	6 	192,22 	22,65 	2410 	4130 	1803 	Tennant
+78 	Pt 	platina 	10 	6 	195,08 	21,45 	1772 	3827 	1557 	Scaliger
+79 	Au 	goud 	11 	6 	196,966 54 	19,32 	1064,4 	2940 	prehistorisch 	
+80 	Hg 	kwik 	12 	6 	200,59 	13,55 	−38,9 	356,6 	prehistorisch 	
+81 	Tl 	thallium 	13 	6 	204,3833 	11,85 	303,6 	1457 	1861 	Crookes
+82 	Pb 	lood 	14 	6 	207,2 	11,34 	327,5 	1740 	prehistorisch 	
+83 	Bi 	bismut 	15 	6 	208,980 37 	9,80 	271,4 	1560 	1540 	Agricola
+84 	Po 	polonium 	16 	6 	208,9824 	9,20 	254 	962 	1898 	P. en M. Curie
+85 	At 	astaat 	17 	6 	209,9871 	6,35 	302 	337 	1940 	Corson, MacKenzie en Segrè
+86 	Rn 	radon 	18 	6 	222,0176 	0,009 23 	−71 	−61,8 	1900 	Dorn
+87 	Fr 	francium 	1 	7 	223,0197 	2,9 	27 	677 	1939 	Perey
+88 	Ra 	radium 	2 	7 	226,0254 	5,50 	700 	1140 	1898 	P. en M. Curie
+89 	Ac 	actinium 	3 	7 	227,0278 	10,07 	1047 	3197 	1899 	Debierne
+90 	Th 	thorium 	3 	7 	232,0381 	11,72 	1750 	4787 	1829 	Berzelius
+91 	Pa 	protactinium 	3 	7 	231,0359 	15,37 	1554 	4030 	1917 	Soddy, Cranston en Hahn
+92 	U 	uranium, uraan 	3 	7 	238,0289 	18,97 	1132,4 	3818 	1789 	Klaproth
+93 	Np 	neptunium 	3 	7 	237,0482 	20,48 	640 	3902 	1940 	McMillan en Abelson
+94 	Pu 	plutonium 	3 	7 	244,0642 	19,74 	641 	3327 	1940 	Seaborg
+95 	Am 	americium 	3 	7 	243,0614 	13,67 	994 	2607 	1944 	Seaborg
+96 	Cm 	curium 	3 	7 	247,0703 	13,51 	1340 	3110 	1944 	Seaborg
+97 	Bk 	berkelium 	3 	7 	247,0703 	13,25 	986 	2627 	1949 	Seaborg
+98 	Cf 	californium 	3 	7 	251,0796 	15,1 	900 	1470 	1950 	Seaborg
+99 	Es 	einsteinium 	3 	7 	252,0829 	8,84 	860 	996 	1952 	Seaborg
+100 Fm 	fermium 	3 	7 	257,0951 	9,71 	1527 		1952 	Seaborg
+101 Md 	mendelevium 	3 	7 	258,0986 	10,37 	827 		1955 	Seaborg
+102 No 	nobelium 	3 	7 	259,1009 	9,94 	827 		1958 	Seaborg
+103 Lr 	lawrencium 	3 	7 	260,1053 	16,1 	1627 		1961 	Ghiorso
+104 Rf 	rutherfordium 	4 	7 	261,1087 	23,2 	2100 	5500 	1964/69 	Flerov of Ghiorso
+105 Db 	dubnium 	5 	7 	262,1138 	29,3 			1967/70 	Flerov of Ghiorso
+106 Sg 	seaborgium 	6 	7 	263,1182 	35,0 			1974 	Flerov
+107 Bh 	bohrium 	7 	7 	262,1229 	37,1 			1976 	Oganesjan
+108 Hs 	hassium 	8 	7 	265 	41 			1984 	Gesellschaft für Schwerionenforschung
+109 Mt 	meitnerium 	9 	7 	266 	37,4 			1982 	Gesellschaft für Schwerionenforschung
+110 Ds 	darmstadtium 	10 	7 	269 	34,8 			1994 	Gesellschaft für Schwerionenforschung
+111 Rg 	röntgenium 	11 	7 	272 	28,7 			1994 	Gesellschaft für Schwerionenforschung
+112 Cn 	copernicium 	12 	7 	277 	23,7 			1996 	Gesellschaft für Schwerionenforschung
+113 Nh 	nihonium 	13 	7 	284 	16 	430 	1130 	2004 	Gezamenlijk Instituut voor Kernonderzoek
+114 Fl 	flerovium 	14 	7 	289 	14 		−60 	2004 	Gezamenlijk Instituut voor Kernonderzoek
+115 Mc 	moscovium 	15 	7 	295 	13,5 	400 	1100 	2003 	Gezamenlijk Instituut voor Kernonderzoek
+116 Lv 	livermorium 	16 	7 	297 	12,9 	435,5 	812 	2004
+117 Ts 	tennessine 	17 	7 	291 	7,2 	450 	610 	2010 	
+118 Og 	oganesson 	18 	7 	293 	5,0 		80 	2002 	Gezamenlijk Instituut voor Kernonderzoek en Lawrence Livermore National Laboratory
