@@ -10,39 +10,44 @@ struct Task{
 };
 
 Task *tasks;
-std::vector<int> order;
+std::vector<int> *gorder;
 
 void goThrough(int task){
 	if (tasks[task].added) return;
 	for (auto d : tasks[task].depends) goThrough(d);
 
-	order.push_back(task);
+	gorder->push_back(task);
 	tasks[task].added = true;
 }
 
 int main(){
-	int n, m;
-	scanf("%i %i", &n, &m);
-
-	tasks = new Task[n + 1];
-
 	for (;;){
-		int i, j;
-		scanf("%i %i", &i, &j);
-		if (i == 0 && j == 0) break;
+		std::vector<int> order;
+		gorder = &order;
 
-		tasks[j].depends.push_back(i);
-		tasks[i].top = false;
-	}
+		int n, m;
+		scanf("%i %i", &n, &m);
+		if (n == 0 && m == 0) return 0;
 
-	for (int i = 1; i <= n; i++){
-		if (tasks[i].top) {
-			goThrough(i);
+		tasks = new Task[n + 1];
+
+		for (int k = 0; k < m; k++){
+			int i, j;
+			scanf("%i %i", &i, &j);
+
+			tasks[j].depends.push_back(i);
+			tasks[i].top = false;
 		}
-	}
 
-	for (auto t : order){
-		printf("%i ", t);
+		for (int i = 1; i <= n; i++){
+			if (tasks[i].top) {
+				goThrough(i);
+			}
+		}
+
+		for (auto t : order){
+			printf("%i ", t);
+		}
+		printf("\n");
 	}
-	printf("\n");
 }

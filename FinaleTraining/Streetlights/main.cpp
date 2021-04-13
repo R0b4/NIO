@@ -21,10 +21,19 @@ struct Compare{
 };
 
 int findParent(Junction *list, int a){
+	int result = a;
 	for (;;){
-		if (list[a].parent == a) return a;
-		else a = list[a].parent;
+		if (list[result].parent == result) break;
+		else result = list[result].parent;
 	}
+	for (int i = a;;){
+		if (i == result) break;
+		else {
+			list[i].parent = result;
+			i = list[i].parent;
+		}
+	}
+	return result;
 }
 
 bool addTo(Junction *list, int a, int b){
@@ -49,7 +58,7 @@ int doLights(int n, int m, std::priority_queue<street, std::vector<street>, Comp
 	}
 
 	for (street s = streets.top(); streets.size() != 0; streets.pop(), s = streets.top()){
-		printf("%i %i %i\n", s.x, s.y, s.distance);
+		//printf("%i %i %i\n", s.x, s.y, s.distance);
 
 		if (!addTo(j, s.x, s.y)){
 			savings += s.distance;
