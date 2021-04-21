@@ -4,7 +4,7 @@ int find(int n, int starti, int startj, int **picture){
 	int white[4] {0, 0, 0, 0};
 
 	int endi = starti + n;
-	int endj = startj + n;
+	//int endj = startj + n;
 
 	int midi = starti + (n << 1);
 	int midj = startj + (n << 1);
@@ -32,6 +32,9 @@ int find(int n, int starti, int startj, int **picture){
 	int max;
 	{
 		int up = white[0] > white[1] ? 0 : 1;
-		
+		int down = white[2] > white[3] ? 2 : 3;
+		max = white[up] > white[down];
 	}
+
+	return 0;
 }
