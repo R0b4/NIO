@@ -38,5 +38,5 @@ uint64_t pow(uint64_t base, uint64_t exp, uint64_t mod){
 		if (exp & 1) ans = (base * ans) % mod;
 		base = (base * base) % mod;
 	} while (exp >>= 1);
-	
+	return ans;
 }
